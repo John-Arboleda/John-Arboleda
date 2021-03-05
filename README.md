@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
--->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Arboleda)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Arboleda&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<div display="flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=John-Arboleda" height="200px"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-Arboleda&hide=html" height="200px" width="35%"/>
+</div>
+
