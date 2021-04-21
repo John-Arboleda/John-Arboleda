@@ -1,5 +1,7 @@
 ### Hi there, I'm John Arboleda
 
+![banner-header](Images/header.png)
+
 - 🌱 I’m currently learning: HTML/CSS/Bootstrap
 
 <!--
@@ -25,3 +27,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-Arboleda&hide=html" height="200px" width="35%"/>
 </div>
 
+![banner-footer](Images/footer.png)
