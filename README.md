@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 -->
 
 <div display="flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=John-Arboleda" height="200px"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-Arboleda&hide=html" height="200px" width="35%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=John-Arboleda&theme=midnight-purple" height="200px"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-Arboleda&hide=html&theme=midnight-purple" height="200px" width="35%"/>
 </div>
 
 ![banner-footer](Images/footer.png)
