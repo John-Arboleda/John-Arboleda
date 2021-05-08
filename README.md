@@ -10,7 +10,7 @@ const johnArboleda = {
     "Business-oriented, enjoy building apps aiming for the best user experience",
     "Problem-solving and analytical skills"
   ],
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap],
+  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Bootstrap],
   currently: "Fulltime student at Microverse",
   askMeAbout: [Poker, Linear Optimization, Podcasts],
 }
